@@ -1,2 +1,2 @@
 # slideshows
-Simple Image Slide Show Creator
+Placeholder Module - May be used in the future
